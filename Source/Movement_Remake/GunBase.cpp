@@ -2,10 +2,7 @@
 
 
 #include "GunBase.h"
-#include "Components/ArrowComponent.h"
-#include "Components/SkeletalMeshComponent.h"
-#include "Components/StaticMeshComponent.h"
-#include "Particles/ParticleSystemComponent.h"
+
 
 // Sets default values
 AGunBase::AGunBase()
